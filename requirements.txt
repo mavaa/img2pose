@@ -77,7 +77,7 @@ tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
 terminado==0.9.1
 testpath==0.4.4
-torch==1.7.1
+torch==1.8.0
 torchvision==0.8.2
 tornado==6.1
 tqdm==4.54.1
